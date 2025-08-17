@@ -1,5 +1,7 @@
 def manbaout()
 
+def man()
+
 def main():
     print("Hello from primerpioneer!")
 
