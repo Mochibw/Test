@@ -1,8 +1,4 @@
-def add(a: int,b: int) -> str:
-    return str(a + b)
-
-def multi(a: float,b: float) -> float:
-    return str(a * b)
+def manbaout()
 
 def main():
     print("Hello from primerpioneer!")
