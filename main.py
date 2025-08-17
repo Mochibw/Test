@@ -1,6 +1,8 @@
-def manbaout()
+def manbaout():
 
-def man()
+def man():
+
+def dianzan():
 
 def main():
     print("Hello from primerpioneer!")
