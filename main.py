@@ -1,9 +1,7 @@
-@mcp.tool()
-def add(a: int,b: int) -> str
+def add(a: int,b: int) -> str:
     return str(a + b)
 
-@mcp.tool()
-def multi(a: float,b: float) -> float
+def multi(a: float,b: float) -> float:
     return str(a * b)
 
 def main():
