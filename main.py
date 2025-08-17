@@ -1,6 +1,6 @@
-def manbaout()
+def manbaout():
 
-def man()
+def man():
 
 def main():
     print("Hello from primerpioneer!")
@@ -8,6 +8,5 @@ def main():
 def conflict():
 
 
-saf
 if __name__ == "__main__":
     main()
