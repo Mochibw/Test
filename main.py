@@ -10,8 +10,9 @@ def main():
 def conflict():
     return 0
 
-def test():
-    return 3
+def test2():
+    return 2
+
 
 if __name__ == "__main__":
     main()
